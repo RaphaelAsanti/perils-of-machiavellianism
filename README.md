@@ -1,4 +1,4 @@
-# Machiavellianism Thesis — Personal Notes Summary
+# The Perils of Machiavellianism — Personal Notes Summary
 
 ## Overview
 This repository contains a concise summary of my working thesis on Machiavellianism as a civilizational contagion. It serves as my own reference point and as an orientation layer for anyone who wants to explore deeper material across my related repositories.
