@@ -44,3 +44,13 @@ See my other repositories for expanded symbolic, structural, and interpretive fr
 
 ## Purpose
 This summary exists primarily for my own reference, but it also serves as a gateway for anyone who wants to explore the deeper conceptual material in my repositories.
+
+---
+
+## Author
+
+Raphael E. Asanti  
+July 2026
+
+Main index: https://raphaelasanti.github.io/
+
